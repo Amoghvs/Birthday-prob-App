@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/home/amogh/.android/build-cache/0ff64fc21de600fd58c667c1d8b1c1a1d6d78eb4/output/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/home/amogh/.android/build-cache/0ff64fc21de600fd58c667c1d8b1c1a1d6d78eb4/output/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/home/amogh/.android/build-cache/0ff64fc21de600fd58c667c1d8b1c1a1d6d78eb4/output/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/home/amogh/.android/build-cache/0ff64fc21de600fd58c667c1d8b1c1a1d6d78eb4/output/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

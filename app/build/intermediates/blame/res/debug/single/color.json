@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/res/color/abc_search_url_text.xml"
+    }
+]

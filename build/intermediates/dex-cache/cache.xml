@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amogh/.android/build-cache/5283702380eee2f8903702520104ab98b2a8338d/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_1f8a8ddb843f6ea7ecbc546d2a8046287170d30f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_a9e1195a0ebdd75f077d4659e50839bed677fca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83a533d765e6defc81c704d5b1e5116cd25fc03c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/.android/build-cache/4de7b2ea2d49a6bc3658d493e3aba1472c2d9667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ecc4770bfbf1fdc20a1a534cfc35fba0bf81a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/.android/build-cache/0ff64fc21de600fd58c667c1d8b1c1a1d6d78eb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f05fd63771fb7bb891a1bb3509dc42aec243ad5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/AndroidStudioProjects/Birthdayprob/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_d81dcfd5261cc33f7d2b7f14deb156c7d9114add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/.android/build-cache/5283702380eee2f8903702520104ab98b2a8338d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a5b3f73258c58be9f57bad6cf2253b199f76bf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5d391937a8a5c1015c7aa57622d8ce7a027905c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_f03ed74f6b12ba74a9aaf7dc2988145e482a48d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0404b4e2185cd885745f62082549d408690d4040">
+        <dex dex="/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7df8793843d478d5fb6228983ebb302eb31a151/classes.dex" />
+    </item>
+
+</items>

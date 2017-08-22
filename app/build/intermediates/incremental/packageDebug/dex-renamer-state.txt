@@ -1,0 +1,7 @@
+#Sat Jun 17 00:17:59 IST 2017
+base.0=/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83a533d765e6defc81c704d5b1e5116cd25fc03c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7df8793843d478d5fb6228983ebb302eb31a151/classes.dex
+base.1=/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7df8793843d478d5fb6228983ebb302eb31a151
+file.0=/home/amogh/AndroidStudioProjects/Birthdayprob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83a533d765e6defc81c704d5b1e5116cd25fc03c/classes.dex
